@@ -1,0 +1,30 @@
+.tittle {
+    color: #A27B5C;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.secondTittle{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+.subTittle{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    color: #34495E;
+}
+
+
+
+body{
+    background-color: #BDC3C7;
+}
+
+
+.accordion{
+    width: 100%;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
